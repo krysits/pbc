@@ -1,0 +1,17 @@
+{
+  "name": "krysits/pbc",
+  "description": "PHP Blockchain",
+  "license": "EUPLv1.2",
+  "authors": [
+    {
+      "name": "Kristaps Lediņš aka @krysits.COM",
+      "email": "krysits@gmail.com"
+    }
+  ],
+  "require": {
+    "php" : ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {"Krysits\\PBC": "src/"}
+  }
+}
