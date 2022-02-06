@@ -25,8 +25,8 @@ Installation:
 `php tests/validate.php`
 
 ---
-Licence - [EUPLv1.2](LICENCE.TXT)
+License - [EUPLv1.2](LICENSE.TXT)
 
-Licence (latviski) - [EUPLv1.2 LV](LICENCE-LV.TXT)
+License (latviski) - [EUPLv1.2 LV](LICENSE-LV.TXT)
 
 Copyrights &copy; [Kristaps Lediņš](https://kristaps.lediņš.lv) aka [@krysits.com](https://krysits.com) 2022
